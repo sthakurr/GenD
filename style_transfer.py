@@ -21,7 +21,7 @@ from scipy.optimize import fmin_l_bfgs_b
 import matplotlib.pyplot as plt
 import shutil
 import cv2
-from google.colab.patches import cv2_imshow
+#from google.colab.patches import cv2_imshow
 
 #Irgb = cv2.imread('choco_mockup4.jpeg')
 #gray = cv2.cvtColor(Irgb, cv2.COLOR_BGR2GRAY)
